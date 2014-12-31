@@ -11,3 +11,156 @@ https://developer.apple.com/icloud/documentation/data-storage/
 
 2014-11-13 13:27:03.901 Hello World[59400:5278447] Resetting plugins due to page load.
 2014-11-13 13:27:04.050 Hello World[59400:5278447] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/C7CF2798-DC8C-455C-98CE-571CEA8ACEF6/Hello%20World.app/www/index.html
+2014-11-13 13:36:14.181 Hello World[59914:5289986] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Data/Application/AD9FE7C0-D35C-44C5-838A-16C2785198B3/Library/Cookies/Cookies.binarycookies
+2014-11-13 13:36:14.286 Hello World[59914:5289986] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-13 13:36:14.287 Hello World[59914:5289986] Multi-tasking -> Device: YES, App: YES
+2014-11-13 13:36:14.294 Hello World[59914:5289986] Unlimited access to network resources
+2014-11-13 13:36:14.297 Hello World[59914:5289986] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-13 13:36:14.578 Hello World[59914:5289986] Resetting plugins due to page load.
+2014-11-13 13:36:14.639 Hello World[59914:5289986] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/B211A848-704A-4641-BCA9-6F4EF9DBC7AD/Hello%20World.app/www/index.html
+2014-11-13 13:37:18.095 Hello World[60347:5291707] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Data/Application/C29703EB-4D24-4757-A160-38F67D394988/Library/Cookies/Cookies.binarycookies
+2014-11-13 13:37:18.181 Hello World[60347:5291707] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-13 13:37:18.182 Hello World[60347:5291707] Multi-tasking -> Device: YES, App: YES
+2014-11-13 13:37:18.188 Hello World[60347:5291707] Unlimited access to network resources
+2014-11-13 13:37:18.190 Hello World[60347:5291707] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-13 13:37:18.446 Hello World[60347:5291707] Resetting plugins due to page load.
+2014-11-13 13:37:18.503 Hello World[60347:5291707] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/AF2D3BA3-05CF-4383-A924-C9AE978CD89E/Hello%20World.app/www/index.html
+2014-11-13 13:38:58.222 Hello World[60831:5293993] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Data/Application/B10C097A-3F0A-4984-B62E-FC834E93393C/Library/Cookies/Cookies.binarycookies
+2014-11-13 13:38:58.315 Hello World[60831:5293993] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-13 13:38:58.315 Hello World[60831:5293993] Multi-tasking -> Device: YES, App: YES
+2014-11-13 13:38:58.323 Hello World[60831:5293993] Unlimited access to network resources
+2014-11-13 13:38:58.326 Hello World[60831:5293993] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-13 13:38:58.596 Hello World[60831:5293993] Resetting plugins due to page load.
+2014-11-13 13:38:58.652 Hello World[60831:5293993] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/E0B9A753-6D7C-4CC6-866A-F68B5111AB01/Hello%20World.app/www/index.html
+2014-11-13 13:42:28.430 Hello World[61395:5299125] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Data/Application/32AACDC8-AC0F-4430-B0F2-9E6E978805AB/Library/Cookies/Cookies.binarycookies
+2014-11-13 13:42:28.529 Hello World[61395:5299125] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-13 13:42:28.530 Hello World[61395:5299125] Multi-tasking -> Device: YES, App: YES
+2014-11-13 13:42:28.537 Hello World[61395:5299125] Unlimited access to network resources
+2014-11-13 13:42:28.540 Hello World[61395:5299125] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-13 13:42:28.834 Hello World[61395:5299125] Resetting plugins due to page load.
+2014-11-13 13:42:28.906 Hello World[61395:5299125] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/2C9893B7-FBDC-45BD-B1DA-B753EDB84945/Hello%20World.app/www/index.html
+2014-11-13 13:44:17.464 Hello World[61395:5299125] THREAD WARNING: ['Notification'] took '10.679932' ms. Plugin should use a background thread.
+2014-11-13 13:44:45.891 Hello World[61837:5302549] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Data/Application/A50D0BC9-95DB-456B-9920-55FFCD53AA2C/Library/Cookies/Cookies.binarycookies
+2014-11-13 13:44:45.971 Hello World[61837:5302549] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-13 13:44:45.971 Hello World[61837:5302549] Multi-tasking -> Device: YES, App: YES
+2014-11-13 13:44:45.976 Hello World[61837:5302549] Unlimited access to network resources
+2014-11-13 13:44:45.979 Hello World[61837:5302549] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-13 13:44:46.231 Hello World[61837:5302549] Resetting plugins due to page load.
+2014-11-13 13:44:46.294 Hello World[61837:5302549] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/3677D763-DF2C-4299-A9B3-293A26147961/Hello%20World.app/www/index.html
+2014-11-13 13:44:46.370 Hello World[61837:5302549] THREAD WARNING: ['Notification'] took '55.729980' ms. Plugin should use a background thread.
+2014-11-13 14:56:18.410 Hello World[61837:5337907] Terminating since there is no system app.
+2014-11-13 14:56:34.514 Hello World[62623:5338886] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Data/Application/630AFC0F-22F6-4C39-B85B-C9AD0AEA0F33/Library/Cookies/Cookies.binarycookies
+2014-11-13 14:56:34.608 Hello World[62623:5338886] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-13 14:56:34.609 Hello World[62623:5338886] Multi-tasking -> Device: YES, App: YES
+2014-11-13 14:56:34.616 Hello World[62623:5338886] Unlimited access to network resources
+2014-11-13 14:56:34.619 Hello World[62623:5338886] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-13 14:56:34.912 Hello World[62623:5338886] Resetting plugins due to page load.
+2014-11-13 14:56:35.248 Hello World[62623:5338886] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/54AA1CE8-C87C-4701-83C6-37F0135947EE/Hello%20World.app/www/index.html
+2014-11-13 14:56:40.942 Hello World[62623:5338886] CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:56:40.943 Hello World[62623:5338886] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:56:43.098 Hello World[62623:5338886] CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:56:43.098 Hello World[62623:5338886] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:56:53.878 Hello World[62623:5338886] CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:56:53.878 Hello World[62623:5338886] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:56:54.034 Hello World[62623:5338886] CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:56:54.034 Hello World[62623:5338886] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:56:56.246 Hello World[62623:5338886] CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:56:56.246 Hello World[62623:5338886] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:57:47.237 Hello World[63076:5340969] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Data/Application/0EE6D7CB-3931-42B5-A8E4-5DDA13DC7A9E/Library/Cookies/Cookies.binarycookies
+2014-11-13 14:57:47.329 Hello World[63076:5340969] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-13 14:57:47.329 Hello World[63076:5340969] Multi-tasking -> Device: YES, App: YES
+2014-11-13 14:57:47.336 Hello World[63076:5340969] Unlimited access to network resources
+2014-11-13 14:57:47.339 Hello World[63076:5340969] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-13 14:57:47.617 Hello World[63076:5340969] Resetting plugins due to page load.
+2014-11-13 14:57:47.757 Hello World[63076:5340969] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/A3B799E2-E728-461D-B4CB-0AD246A07B9F/Hello%20World.app/www/index.html
+2014-11-13 14:58:04.886 Hello World[63076:5340969] CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:58:04.887 Hello World[63076:5340969] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:58:05.387 Hello World[63076:5340969] CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:58:05.387 Hello World[63076:5340969] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:58:05.575 Hello World[63076:5340969] CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:58:05.576 Hello World[63076:5340969] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:58:05.731 Hello World[63076:5340969] CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:58:05.731 Hello World[63076:5340969] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-11-13 14:59:42.249 Hello World[63526:5344662] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Data/Application/28F84AE7-7A97-474D-9F06-00FC83475F16/Library/Cookies/Cookies.binarycookies
+2014-11-13 14:59:42.343 Hello World[63526:5344662] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-13 14:59:42.343 Hello World[63526:5344662] Multi-tasking -> Device: YES, App: YES
+2014-11-13 14:59:42.350 Hello World[63526:5344662] Unlimited access to network resources
+2014-11-13 14:59:42.353 Hello World[63526:5344662] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-13 14:59:42.641 Hello World[63526:5344662] Resetting plugins due to page load.
+2014-11-13 14:59:42.781 Hello World[63526:5344662] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/E0E4FD0F-D0B9-47CA-8D23-3A4A804637AE/Hello%20World.app/www/index.html
+2014-11-13 15:00:09.362 Hello World[63526:5344715] Terminating since there is no system app.
+2014-11-13 15:20:06.176 Hello World[64068:5360133] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Data/Application/E736F135-9B62-4766-9C90-F9137A03F05D/Library/Cookies/Cookies.binarycookies
+2014-11-13 15:20:06.295 Hello World[64068:5360133] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-13 15:20:06.296 Hello World[64068:5360133] Multi-tasking -> Device: YES, App: YES
+2014-11-13 15:20:06.306 Hello World[64068:5360133] Unlimited access to network resources
+2014-11-13 15:20:06.310 Hello World[64068:5360133] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-13 15:20:06.648 Hello World[64068:5360133] Resetting plugins due to page load.
+2014-11-13 15:20:07.032 Hello World[64068:5360133] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/5FECC132-87C9-4719-9047-DA2B28CA92B2/Hello%20World.app/www/index.html
+2014-11-13 15:21:53.807 Hello World[64068:5360133] Failed to load webpage with error: The URL can’t be shown
+2014-11-13 15:24:42.024 Hello World[64574:5366052] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Data/Application/43E257F7-7F1E-4618-BFC1-426528F04078/Library/Cookies/Cookies.binarycookies
+2014-11-13 15:24:42.123 Hello World[64574:5366052] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-13 15:24:42.124 Hello World[64574:5366052] Multi-tasking -> Device: YES, App: YES
+2014-11-13 15:24:42.131 Hello World[64574:5366052] Unlimited access to network resources
+2014-11-13 15:24:42.134 Hello World[64574:5366052] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-13 15:24:42.480 Hello World[64574:5366052] Resetting plugins due to page load.
+2014-11-13 15:24:42.850 Hello World[64574:5366052] Finished load of: file:///Users/joshreedschramm/Library/Developer/CoreSimulator/Devices/6B230FE3-CAE3-456F-B056-77289746C967/data/Containers/Bundle/Application/64D6C676-43D5-4C8D-8F53-B24B28987923/Hello%20World.app/www/index.html
